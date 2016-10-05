@@ -1,5 +1,14 @@
 <LOOT>
+<!-- Crafting -->
+  <CRAFT>
+    <NAME en="Makeshift Bodyarmor" />
+    <RECIPE mats="(2) Armor Scraps, (4) Composite Fabrics, (1) Duct Tape" />
+    <LINK url="http://h1z1fzma.com/db/kotk/crafting/makeshift"/>
+  </CRAFT>
 <!-- Items -->
+<!-- Apperel -->
+<!-- Vehicles -->
+<!-- Weapons -->
 
 
 
